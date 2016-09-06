@@ -1,4 +1,4 @@
-Alissa Diaz
+//Alissa Diaz
 function setup() {
   createCanvas(400, 269);
   background(235, 186, 22)
